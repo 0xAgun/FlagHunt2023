@@ -217,9 +217,7 @@ while True:
 ```
 
 
-
-
-
+![MIT License](https://i.imgur.com/YAgkLN7.png)
 
 
 
